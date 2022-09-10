@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suyog888
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning BE Computer Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning BE Computer Engineering. 
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me suyogarote2018@gmail.com
 
 <!---
